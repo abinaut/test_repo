@@ -1,0 +1,13 @@
+.custom-button {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.custom-button:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.description.hide {
+  display: none;
+}
